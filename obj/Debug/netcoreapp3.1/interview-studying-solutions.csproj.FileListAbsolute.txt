@@ -1,0 +1,11 @@
+/home/braydon/Git/interview-studying-solutions/obj/Debug/netcoreapp3.1/interview-studying-solutions.csprojAssemblyReference.cache
+/home/braydon/Git/interview-studying-solutions/obj/Debug/netcoreapp3.1/interview-studying-solutions.AssemblyInfoInputs.cache
+/home/braydon/Git/interview-studying-solutions/obj/Debug/netcoreapp3.1/interview-studying-solutions.AssemblyInfo.cs
+/home/braydon/Git/interview-studying-solutions/bin/Debug/netcoreapp3.1/interview-studying-solutions
+/home/braydon/Git/interview-studying-solutions/bin/Debug/netcoreapp3.1/interview-studying-solutions.deps.json
+/home/braydon/Git/interview-studying-solutions/bin/Debug/netcoreapp3.1/interview-studying-solutions.runtimeconfig.json
+/home/braydon/Git/interview-studying-solutions/bin/Debug/netcoreapp3.1/interview-studying-solutions.runtimeconfig.dev.json
+/home/braydon/Git/interview-studying-solutions/bin/Debug/netcoreapp3.1/interview-studying-solutions.dll
+/home/braydon/Git/interview-studying-solutions/bin/Debug/netcoreapp3.1/interview-studying-solutions.pdb
+/home/braydon/Git/interview-studying-solutions/obj/Debug/netcoreapp3.1/interview-studying-solutions.dll
+/home/braydon/Git/interview-studying-solutions/obj/Debug/netcoreapp3.1/interview-studying-solutions.pdb
